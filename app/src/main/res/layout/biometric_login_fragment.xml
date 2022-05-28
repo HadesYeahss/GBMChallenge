@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.BiometricLoginFragment">
+
+    <TextView
+        android:id="@+id/textView_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dim_150"
+        android:text="@string/txt_login"
+        android:textColor="@color/black"
+        android:textSize="@dimen/dim_text_28"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/image_biometric"
+        android:layout_width="@dimen/dim_130"
+        android:layout_height="@dimen/dim_130"
+        android:layout_marginTop="@dimen/dim_75"
+        android:src="@drawable/ic_touchid"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_header"
+        app:tint="@color/bio_color" />
+
+    <TextView
+        android:id="@+id/textView_footer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dim_50"
+        android:text="@string/init_biometric_text_footer"
+        android:textColor="@color/black"
+        android:textSize="@dimen/dim_text_14"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_biometric" />
+
+    <Button
+        android:id="@+id/button_activate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dim_50"
+        android:layout_marginTop="@dimen/dim_50"
+        android:layout_marginEnd="@dimen/dim_50"
+        android:backgroundTint="@color/bio_color"
+        android:text="@string/init_biometric_text_button"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_footer" />
+
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dim_50"
+        android:layout_marginTop="@dimen/dim_10"
+        android:layout_marginEnd="@dimen/dim_50"
+        android:backgroundTint="@color/button"
+        android:text="@string/init_biometric_text_button_cancel"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_activate" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

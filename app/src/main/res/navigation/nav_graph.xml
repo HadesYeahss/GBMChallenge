@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.exam.gbm.ui.main.LoginFragment"
+        android:label=""
+        tools:layout="@layout/login_fragment">
+        <action
+            android:id="@+id/action_loginFragment_to_indexFragment"
+            app:destination="@id/indexFragment"
+            app:enterAnim="@anim/slide_in"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/slide_out" />
+        <action
+            android:id="@+id/action_loginFragment_to_biometricLoginFragment"
+            app:destination="@id/biometricLoginFragment"
+            app:enterAnim="@anim/zoom_in"
+            app:exitAnim="@anim/zoom_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/slide_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/indexFragment"
+        android:name="com.exam.gbm.ui.main.IndexFragment"
+        android:label="@string/index_header"
+        tools:layout="@layout/index_fragment">
+        <action
+            android:id="@+id/action_indexFragment_to_indexOrderFragment"
+            app:destination="@id/indexOrderFragment"
+            app:enterAnim="@anim/slide_in"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/slide_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/indexOrderFragment"
+        android:name="com.exam.gbm.ui.main.IndexOrderFragment"
+        android:label="@string/top_ten_header"
+        tools:layout="@layout/index_list_fragment" />
+    <fragment
+        android:id="@+id/biometricLoginFragment"
+        android:name="com.exam.gbm.ui.main.BiometricLoginFragment"
+        android:label="BiometricLoginFragment">
+        <action
+            android:id="@+id/action_biometricLoginFragment_to_indexFragment"
+            app:destination="@id/indexFragment" />
+        <action
+            android:id="@+id/action_biometricLoginFragment_to_indexFragmentTwo"
+            app:popUpTo="@+id/loginFragment"
+            app:destination="@id/indexFragment" />
+    </fragment>
+</navigation>

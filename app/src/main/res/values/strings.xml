@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GBM+</string>
+    <string name="txt_login">Inicia sesión</string>
+    <string name="txt_login_bio">Ingresa usando tu huella</string>
+    <string name="txt_login_bio_cancel">Cancelar</string>
+    <string name="txt_login_error_mail">Correo incorrecto</string>
+    <string name="txt_login_error_pass">Contraseña incorrecta</string>
+    <string name="text_email_indicador">Correo electrónico</string>
+    <string name="txt_password_header">Contraseña</string>
+    <string name="login_btn">Iniciar sesión</string>
+    <string name="txt_o">o</string>
+    <string name="index_header">Grafica IPC</string>
+    <string name="chart_description">Indice IPC</string>
+    <string name="chart_footer">Precio</string>
+    <string name="top_ten_header">Top Ten´s</string>
+    <string name="top_ten_header_upper">Alzas</string>
+    <string name="top_ten_header_lower">Bajas</string>
+    <string name="top_ten_header_change">Volumen</string>
+    <string name="init_biometric_text_flag">Iniciar con huella</string>
+    <string name="init_biometric_text_footer">Coloca tu huella para acceder a la aplicación</string>
+    <string name="init_biometric_text_footer_alternative">Activa tu inicio de sesión con tus datos biométricos</string>
+    <string name="snake_alert_text">Inicia sesión para activar tus datos biométricos</string>
+    <string name="init_biometric_text_button">ACTIVAR</string>
+    <string name="init_biometric_text_button_cancel">CANCELAR</string>
+</resources>

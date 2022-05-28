@@ -1,0 +1,1192 @@
+[
+  {
+    "date": "2020-08-18T00:01:43.633-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:01:43.657-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:02:43.91-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:02:43.933-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:03:44.173-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:03:44.2-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:04:44.457-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:04:44.48-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:05:44.76-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:05:44.787-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:06:45.033-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:06:45.06-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:07:45.577-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:07:45.603-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:08:45.957-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:08:45.98-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:09:46.253-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:09:46.28-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:10:46.543-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:10:46.573-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:11:46.887-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:11:46.913-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:12:47.29-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:12:47.317-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:13:47.7-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:13:47.727-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:14:47.977-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:14:48.007-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:15:48.243-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:15:48.267-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:16:48.513-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:16:48.537-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:17:48.79-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:17:48.817-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:18:49.08-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:18:49.107-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:19:49.343-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:19:49.37-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:20:49.623-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:20:49.65-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:21:49.893-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:21:49.92-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:22:50.2-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:22:50.227-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:23:50.69-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:23:50.713-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:24:51.127-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:24:51.157-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:25:51.413-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:25:51.44-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:26:51.913-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:26:51.947-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:27:52.157-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:27:52.18-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:28:52.417-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:28:52.443-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:29:52.717-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:29:52.743-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T00:31:11.783-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.0,
+    "volume": 0,
+    "change": 0.0
+  },
+  {
+    "date": "2020-08-18T01:00:02.5-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:00:02.54-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:01:02.64-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:01:02.663-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:02:02.92-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:02:02.943-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:03:03.213-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:03:03.24-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:04:03.477-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:04:03.497-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:05:03.787-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:05:03.813-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:06:04.187-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:06:04.213-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:07:04.477-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:07:04.5-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:08:04.75-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:08:04.78-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:09:05.147-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:09:05.17-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:10:05.427-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:10:05.45-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:11:06.073-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:11:06.11-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:12:06.813-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:12:06.993-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:13:06.61-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:13:06.63-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:14:06.89-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:14:06.913-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:15:07.41-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:15:07.453-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:16:08.79-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:16:08.813-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:17:09.103-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:17:09.13-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:18:09.383-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:18:09.41-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:19:09.887-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:19:09.91-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:20:10.167-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:20:10.19-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:21:10.7-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:21:10.723-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:22:11.107-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:22:11.13-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:23:11.4-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:23:11.427-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:24:11.663-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:24:11.69-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:25:12.057-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:25:12.08-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:26:12.433-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:26:12.46-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:27:12.717-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:27:12.737-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:28:12.997-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:28:13.02-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:29:13.417-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T01:29:13.44-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:00:23.507-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:00:23.533-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:01:23.837-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:01:23.87-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:02:24.473-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:02:24.517-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:03:24.747-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:03:24.787-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:04:24.98-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:04:25.013-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:05:25.19-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:05:25.217-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:06:25.483-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:06:25.51-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:07:25.76-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:07:25.787-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:08:26.233-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:08:26.257-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:09:26.533-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:09:26.557-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:10:26.837-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:10:26.86-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:11:27.36-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:11:27.387-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:12:27.633-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:12:27.66-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:13:27.937-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:13:27.963-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:14:28.22-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:14:28.247-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:15:28.5-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:15:28.523-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:16:28.8-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:16:28.827-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:17:29.26-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:17:29.283-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:18:29.553-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:18:29.58-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:19:29.84-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:19:29.863-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:20:30.24-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:20:30.267-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:21:30.623-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:21:30.653-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:22:30.903-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:22:30.95-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:23:31.413-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:23:31.44-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:24:31.703-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:24:31.73-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  },
+  {
+    "date": "2020-08-18T02:25:32.217-05:00",
+    "price": 39285.85,
+    "percentageChange": 0.86257,
+    "volume": 128684937,
+    "change": 335.97
+  }
+]
